@@ -1,0 +1,28 @@
+.nav{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.89);
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px auto;
+}
+.nav-links{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 10px;
+}
+h1{
+    color: blanchedalmond;
+}
+.btn{
+    background-color: teal;
+    text-shadow: black;
+}
+*{
+    font-family: google font Robot;
+}
+a{
+    margin: 24px;
+    color: blanchedalmond;
+}
